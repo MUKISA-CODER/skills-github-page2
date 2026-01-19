@@ -4,7 +4,7 @@
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/dfb29830-9dd6-4af3-99ad-e77678876181" />
 
 
-Hi there 👋, and thanks for stopping by!  
+**Hi there **👋, and thanks for stopping by!  
 This space is dedicated to sharing insights, tutorials, and reflections on **data, learning, and growth**.  
 Whether you're here to explore technical guides, personal reflections, or community projects, I hope you find something valuable.
 
