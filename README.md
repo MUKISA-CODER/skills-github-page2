@@ -3,6 +3,8 @@
 <!--
   <<< Author notes: Course header >>>
   (https://github.com/user-attachments/assets/c8c7cc51-7b10-48be-a706-66e87aaa22b1)
+  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/4ae3edec-4504-496a-910c-633db150945c" />
+
 
 -->
 
